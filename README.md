@@ -8,7 +8,7 @@ Node REST APIs using Express and JsonWebTokens.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ashokramadasu/anaha-task`
+1. Clone the repository: `git clone https://github.com/ramadasuashok123/anaha-task.git`
 2. Install the application: `npm install`
 3. Place your own MongoDB URI in `config/index.js`
 4. Start the server: `node app.js` or `npm start`
