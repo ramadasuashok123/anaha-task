@@ -1,0 +1,17 @@
+{
+  "name": "instarem-task",
+  "version": "0.0.1",
+  "description": "Anaha task -Securing API using JWT token.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashok",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.10.8",
+    "helmet": "3.12.1",
+    "jsonwebtoken": "8.3.0"
+  }
+}
