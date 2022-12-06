@@ -10,7 +10,7 @@
   "author": "Ashok",
   "dependencies": {
     "body-parser": "1.18.2",
-    "express": "4.10.8",
+    "express": "4.17.3",
     "helmet": "3.12.1",
     "jsonwebtoken": "8.3.0"
   }
